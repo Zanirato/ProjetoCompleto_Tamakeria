@@ -1,6 +1,6 @@
 # ProjetoCompleto_Tamakeria
 
-### Projeto feito em aula utilizando a ferramenta figma para criar um protótipo de site, de uma Tamakeria.
+### Projeto feito em aula utilizando a ferramenta figma para criar um protótipo de site, de uma Temakeria.
 
 
 
